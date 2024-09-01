@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">FruitSense</string>
+
+    /// Nav Menu
+    <string name="home_menu">Home</string>
+    <string name="scan_menu">Scan</string>
+    <string name="profile_menu">Profile</string>
+
+
+    /// Sign Up Page
+    <string name="sign_up">Sign Up</string>
+    <string name="haveAnAccount">Already have an Account?</string>
+    <string name="haveAnAccount1">Log In</string>
+
+
+    /// Log In Page
+    <string name="log_in">Log In</string>
+    <string name="signupInLoginPage">Don\'t have an Account?</string>
+    <string name="signupInLoginPage1">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+
+    /// Forgot Pass
+    <string name="enter_email">Please enter your registered email.</string>
+    <string name="request_reset_link">Request reset link</string>
+
+
+    /// Home Page, Articles Page, Single Article Page, Fruits Page
+    <string name="cta2">Discover Perfect Fruits Now! \nStart Scanning and Taste \nthe Freshness!</string>
+    <string name="articles">Articles</string>
+    <string name="article1">The Downside of Overripe Fruits</string>
+    <string name="article2">Fruit Ripening Stages: From Green to Sweet</string>
+    <string name="article3">Fruit Storage \nHacks</string>
+    <string name="article4">Factors Affecting \nFruit Quality</string>
+    <string name="article5">Nutritional Benefits \nof Fresh Fruits</string>
+    <string name="article6">Global Trends in \nFruit Consumption</string>
+    <string name="button1">View More</string>
+    <string name="fruits">Explore the World of Fruits</string>
+    <string name="fruit1">Apple</string>
+    <string name="fruit2">Banana</string>
+    <string name="button2">View More</string>
+
+    <string name="article">Article</string>
+
+    //Single Article Page 1
+    <string name="singlearticle1">The Downside of \nOverripe Fruits</string>
+    <string name="by">By FruitSense</string>
+    <string name="timearticle1">20 min ago</string>
+    <string name="descarticle1">Fruits are undoubtedly nature\'s sweet gift to us, packed with essential vitamins, minerals, and antioxidants necessary for maintaining a healthy diet and supporting overall well-being.</string>
+    <string name="descarticle1_2">However, there\'s a caveat to this fruity delight – the risk of overripeness. While ripe fruits are a nutritional powerhouse, overripe fruits can pose some downsides that are important to be aware of. For instance, overripe fruits may undergo a decline in nutritional value due to the degradation of essential nutrients like vitamins and antioxidants. Moreover, overripe fruits are more susceptible to microbial contamination, increasing the risk of foodborne illnesses such as food poisoning and gastrointestinal discomfort.</string>
+    <string name="descarticle1_3">Here is a closer look at the consequences and a few words of caution. Overripe fruits may exhibit changes in texture, color, and aroma, signaling their diminished quality and potential spoilage. Additionally, overripe fruits may produce ethylene gas, which accelerates the ripening process of nearby fruits, leading to premature spoilage of the entire batch. Therefore, there is a need to regularly inspect your fruits for signs of overripeness, including changes in color, texture, and aroma, to ensure their freshness and safety for consumption.</string>
+
+    //Single Article Page 2
+    <string name="singlearticle2">Fruit Ripening Stages: \nFrom Green to Sweet</string>
+    <string name="timearticle2">2 hr ago</string>
+    <string name="descarticle2">Fruit ripening is a fascinating process that transforms inedible, hard, and sour produce into sweet, juicy, and palatable delights. Understanding the stages of fruit ripening is not only important for consumers but also for farmers, suppliers, and retailers. This article delves into the journey fruits undergo from their green, unripe state to their sweet, ripe, and sometimes overripe stages.</string>
+    <string name="descarticle2_2"><b>1. Unripe Stage</b></string>
+    <string name="descarticle2_3">Unripe fruits are generally not suitable for immediate consumption but can be used in certain culinary dishes or processed for pickling. At the unripe stage, fruits are usually green and hard. The chlorophyll content is high, giving them their green color. They are often sour or bitter due to the presence of certain acids and tannins. During this stage:</string>
+    <string name="descarticle2_4">• Texture: Hard and firm</string>
+    <string name="descarticle2_5">• Color: Predominantly green</string>
+    <string name="descarticle2_6">• Taste: Sour or bitter</string>
+    <string name="descarticle2_7">• Nutritional Value: High in starch, which has not yet converted to sugars</string>
+    <string name="descarticle2_8"><b>2. Maturing Stage</b></string>
+    <string name="descarticle2_9">As fruits transition from unripe to ripe, they enter the maturing stage. During this stage, fruits are beginning to develop their full flavor and nutritional potential. This is characterized by:</string>
+    <string name="descarticle2_10">• Texture: Starting to soften</string>
+    <string name="descarticle2_11">• Color: Green may start to fade, giving way to the fruit\'s characteristic colors</string>
+    <string name="descarticle2_12">• Taste: Sourness decreases as acids begin to convert to sugars</string>
+    <string name="descarticle2_13">• Aroma: A faint, pleasant smell begins to develop</string>
+    <string name="descarticle2_14"><b>3. Ripening Stage</b></string>
+    <string name="descarticle2_15">The ripening stage is the peak of the fruit\'s development, where it reaches its maximum sweetness and optimal texture. Ripe fruits are ready for consumption and are at their best in terms of flavor and nutritional value. Key characteristics include:</string>
+    <string name="descarticle2_16">• Texture: Soft, juicy, and tender</string>
+    <string name="descarticle2_17">• Color: Vibrant and characteristic of the fruit</string>
+    <string name="descarticle2_18">• Taste: Sweet, as starches have converted to sugars</string>
+    <string name="descarticle2_19">• Aroma: Strong and pleasant</string>
+    <string name="descarticle2_20"><b>4. Overripe Stage</b></string>
+    <string name="descarticle2_21">If left beyond the ripening stage, fruits enter the overripe stage. Overripe fruits may not be as visually appealing but can still be used in various culinary applications such as baking, smoothies, and preserves. This stage is marked by:</string>
+    <string name="descarticle2_22">• Texture: Very soft, sometimes mushy</string>
+    <string name="descarticle2_23">• Color: May become darker or show spots</string>
+    <string name="descarticle2_24">• Taste: Very sweet, sometimes overly so</string>
+    <string name="descarticle2_25">• Aroma: Strong and sometimes fermenting smell</string>
+    <string name="descarticle2_26"><b>5. Decay Stage</b></string>
+    <string name="descarticle2_27">Finally, if fruits are left even longer, they will begin to decay. Decaying fruits are not suitable for consumption and should be discarded or composted. Characteristics of this stage include:</string>
+    <string name="descarticle2_28">• Texture: Mushy and breaking down</string>
+    <string name="descarticle2_29">• Color: Brown or black spots and overall discoloration</string>
+    <string name="descarticle2_30">• Taste: Sour or off-flavor due to fermentation and microbial activity</string>
+    <string name="descarticle2_31">• Aroma: Strong, unpleasant smell indicating spoilage</string>
+
+    //Single Article Page 3
+    <string name="singlearticle3">Fruit Storage Hacks</string>
+    <string name="timearticle3">1 day ago</string>
+    <string name="descarticle3">Keeping fruit fresh can sometimes feel like a race against time. With the right storage techniques, you can extend the shelf life of your favorite fruits and reduce waste. Here are some essential fruit storage hacks to help you make the most of your produce.</string>
+    <string name="descarticle3_2">1. Apples</string>
+    <string name="descarticle3_3">Refrigerate for Longevity: Store apples in the crisper drawer of your refrigerator. They can last up to six weeks when kept cool.</string>
+    <string name="descarticle3_4">Separate from Other Fruits: Apples release ethylene gas, which can speed up the ripening process of other fruits. Keep them away from ethylene-sensitive produce.</string>
+    <string name="descarticle3_5">2. Bananas</string>
+    <string name="descarticle3_6">Room Temperature is Best: Store bananas at room temperature. Avoid refrigeration as it can cause the peel to blacken, although the fruit inside will remain unaffected.</string>
+    <string name="descarticle3_7">Hang Them Up: Use a banana hanger to keep bananas from bruising and to promote even ripening.</string>
+    <string name="descarticle3_8">3. Tomatoes</string>
+    <string name="descarticle3_9">Room Temperature for Best Flavor: Store tomatoes at room temperature, out of direct sunlight. Refrigeration can alter their texture and flavor.</string>
+    <string name="descarticle3_10">Stem Side Down: Place tomatoes stem side down to prevent air from entering and moisture from escaping, which helps them stay fresh longer.</string>
+    <string name="descarticle3_11">Use Ripe Tomatoes Quickly: Once fully ripe, use tomatoes within a few days to enjoy their peak flavor.</string>
+
+
+    //Single Article Page 4
+    <string name="singlearticle4">Factors Affecting \nFruit Quality</string>
+    <string name="timearticle4">2 days ago</string>
+    <string name="descarticle4_1">Fruit quality is a multifaceted concept that encompasses various attributes such as taste, texture, appearance, and nutritional value. The quality of fruits is influenced by a combination of genetic, environmental, and post-harvest factors. Understanding these factors is crucial for farmers, distributors, and consumers to ensure that fruits reach their peak potential. Here, we explore the primary factors that affect fruit quality.</string>
+    <string name="descarticle4_2">1. Genetic Factors</string>
+    <string name="descarticle4_3">Variety Selection: The genetic makeup of a fruit determines its inherent characteristics. Different varieties of the same fruit can vary significantly in taste, color, size, and resistance to diseases.</string>
+    <string name="descarticle4_4">Breeding and Genetic Modification: Advances in breeding techniques and genetic modification can enhance desirable traits such as sweetness, shelf life, and pest resistance. However, these modifications can also affect other quality attributes.</string>
+    <string name="descarticle4_5">2. Environmental Factors</string>
+    <string name="descarticle4_6">Climate: Temperature, humidity, and rainfall play a crucial role in fruit development. For example, citrus fruits thrive in warm, sunny climates, while berries require cooler temperatures.</string>
+    <string name="descarticle4_7">Soil Conditions: Soil type, pH, and nutrient availability affect fruit growth and quality. Well-drained, nutrient-rich soils promote healthy fruit development.</string>
+    <string name="descarticle4_8">Sunlight: Adequate sunlight is essential for photosynthesis, which directly impacts the sugar content and flavor of fruits.</string>
+    <string name="descarticle4_9">3. Agricultural Practices</string>
+    <string name="descarticle4_10">Irrigation: Proper watering schedules ensure that fruits receive the right amount of moisture. Both over-irrigation and under-irrigation can negatively affect fruit quality.</string>
+    <string name="descarticle4_11">Fertilization: The use of appropriate fertilizers enhances soil fertility and provides essential nutrients for fruit growth. Overuse or misuse of fertilizers can lead to nutrient imbalances and affect fruit quality.</string>
+    <string name="descarticle4_12">Pest and Disease Control: Effective management of pests and diseases is crucial to prevent damage to fruits. Chemical and biological controls, along with good agricultural practices, help maintain fruit quality</string>
+
+    //Single Article Page 5
+    <string name="singlearticle5">Nutritional Benefits \nof Fresh Fruits</string>
+    <string name="timearticle5">3 days ago</string>
+    <string name="descarticle5_1">Fresh fruits are not only delicious but also packed with essential nutrients that offer a multitude of health benefits. One of the most significant advantages of consuming fresh fruits is their rich vitamin content. Fruits like oranges, strawberries, and kiwis are excellent sources of Vitamin C, which plays a crucial role in boosting the immune system, promoting healthy skin, and aiding in wound healing. Additionally, fruits such as bananas and avocados provide substantial amounts of Vitamin B6, essential for brain health and energy metabolism.</string>
+    <string name="descarticle5_2">Apart from vitamins, fresh fruits are abundant in dietary fiber. Apples, pears, and raspberries are notable for their high fiber content, which is vital for digestive health. Fiber helps to regulate bowel movements, prevent constipation, and maintain a healthy weight by promoting a feeling of fullness. The inclusion of fiber in the diet is also linked to a lower risk of chronic diseases such as heart disease and diabetes.</string>
+    <string name="descarticle5_3">Fresh fruits are also a valuable source of antioxidants, which help combat oxidative stress and reduce inflammation in the body. Berries, such as blueberries and blackberries, are particularly rich in antioxidants like flavonoids and polyphenols. These compounds have been shown to protect cells from damage, lower the risk of chronic diseases, and support overall well-being.</string>
+
+    //Single Article Page 6
+    <string name="singlearticle6">Global Trends in \nFruit Consumption</string>
+    <string name="timearticle6">4 days ago</string>
+    <string name="descarticle6_1">Fruit consumption patterns around the world are evolving due to a combination of cultural, economic, and health influences. As global awareness of the benefits of a healthy diet grows, fruit consumption trends reflect changing consumer preferences and priorities. This article explores the current global trends in fruit consumption and the factors driving these changes.</string>
+    <string name="descarticle6_2">1. Increased Focus on Health and Wellness</string>
+    <string name="descarticle6_3">Rising Health Consciousness: As people become more aware of the health benefits associated with a balanced diet, there is a growing emphasis on incorporating fruits into daily meals. Fruits are recognized for their nutritional value, including vitamins, minerals, fiber, and antioxidants, which contribute to overall well-being and disease prevention.</string>
+    <string name="descarticle6_4">Functional Foods: Consumers are increasingly interested in fruits that offer specific health benefits, such as anti-inflammatory properties, immune support, and gut health. This trend is driving the popularity of superfoods like acai berries, pomegranates, and blueberries.</string>
+    <string name="descarticle6_5">2. Growth in Organic and Sustainable Choices</string>
+    <string name="descarticle6_6">Organic Produce: The demand for organic fruits is rising as consumers become more concerned about pesticides and environmental impact. Organic farming practices, which avoid synthetic chemicals and promote soil health, appeal to health-conscious consumers and those interested in sustainable agriculture.</string>
+    <string name="descarticle6_7">Sustainable Packaging: There is also a growing trend towards eco-friendly packaging solutions for fruits. Consumers are seeking products with minimal environmental impact, leading to increased use of biodegradable and recyclable packaging materials.</string>
+    <string name="descarticle6_8">3. Diversification of Fruit Consumption</string>
+    <string name="descarticle6_9">Exotic Fruits: Globalization and improved transportation have made it easier for consumers to access a wider variety of fruits. Exotic fruits such as dragon fruit, lychee, and rambutan are gaining popularity as people seek new and unique flavors.</string>
+    <string name="descarticle6_10">Processed Fruit Products: The convenience of processed fruit products, such as dried fruits, fruit juices, and smoothies, is driving their consumption. These products offer a quick and easy way to incorporate fruits into busy lifestyles while maintaining nutritional benefits.</string>
+
+    //Fruits Page and Single Fruit Page
+    <string name="fruits_page">Fruits</string>
+    <string name="fruit_page">Fruit</string>
+    <string name="descfruit1_1">Characteristics</string>
+    <string name="genus">Genus</string>
+    <string name="species">Species</string>
+    <string name="family">Family</string>
+    <string name="descfruit1_2">Descriptions</string>
+    <string name="descfruit1_3">Apples are rich in fiber, promoting digestive health. They are known to help regulate blood sugar levels and reduce the risk of heart disease. Some people may be allergic to apple skins, so caution is advised for those with known allergies.</string>
+    <string name="descfruit2_3">The banana plant, classified under the genus Musa, is a large herbaceous plant characterized by its elongated leaves and substantial height. The fruit, typically yellow when ripe, grows in clusters and has a soft, sweet flesh. Bananas are cultivated in tropical regions worldwide and are a major staple in many diets due to their high nutritional value, including vitamins, minerals, and dietary fiber.</string>
+    <string name="descfruit3_3">The tomato plant, classified under the genus Solanum, is a herbaceous plant known for its edible fruit, which is typically red when ripe but can also be yellow, green, or purple. The fruit is technically a berry and is widely used in culinary applications for its tangy flavor and versatility. Tomatoes are rich in vitamins, especially vitamin C, and antioxidants such as lycopene. They are grown in a variety of climates, with many cultivars developed for different uses ranging from fresh eating to cooking and processing.</string>
+
+    /// Scan Page, Result Page, Tips Page
+    <string name="scan">Scan</string>
+    <string name="cameratxt">Camera</string>
+    <string name="gallerytxt">Choose from Gallery</string>
+    <string name="snaptipstxt">Snap Tips</string>
+    <string name="tips1">Proper Lighting</string>
+    <string name="tips2">Steady Hands</string>
+    <string name="tips3">Center Scan</string>
+    <string name="gallery">Gallery</string>
+
+
+    /// Profile Page, Account Setting Page
+    <string name="profile">Profile</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="language">Language</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="editprofile_title">Edit Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_btn">Save</string>
+
+
+    /// Language Page
+    <string name="language_top">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="english_lang">English</string>
+    <string name="malay_lang">Malay</string>
+    <string name="language_savebtn">Save</string>
+
+
+
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="tomato">Tomato</string>
+    <string name="downside_of_overripe_fruits">The Downside of Overripe Fruits</string>
+    <string name="fruit_ripening_stages">Fruit Ripening Stages: From Green to Sweet</string>
+    <string name="fruit_storage_hacks">Fruit Storage Hacks</string>
+    <string name="factors_affecting_fruit_quality">Factors Affecting Fruit Quality</string>
+    <string name="nutritional_benefits_of_fresh_fruits">Nutritional Benefits of Fresh Fruits</string>
+    <string name="global_trends_in_fruit_consumption">Global Trends in Fruit Consumption</string>
+
+
+
+    <string name="profile_text">Profile</string>
+
+
+</resources>

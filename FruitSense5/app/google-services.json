@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "743596246876",
+    "project_id": "fruitqualitydetectionapp",
+    "storage_bucket": "fruitqualitydetectionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743596246876:android:b00698f1abf4116a15e399",
+        "android_client_info": {
+          "package_name": "com.example.fruitqualitydetectionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuqPOT5XkAhrwf0hpvsmzM9Ox8AK9gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743596246876:android:12666f4a0f93239515e399",
+        "android_client_info": {
+          "package_name": "com.example.fruitsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuqPOT5XkAhrwf0hpvsmzM9Ox8AK9gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743596246876:android:84d2e1e7933e74e715e399",
+        "android_client_info": {
+          "package_name": "com.example.fruitsense1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuqPOT5XkAhrwf0hpvsmzM9Ox8AK9gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743596246876:android:958159c0a4e0539f15e399",
+        "android_client_info": {
+          "package_name": "com.example.fruitsense2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuqPOT5XkAhrwf0hpvsmzM9Ox8AK9gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743596246876:android:d13bc904a1fdc82d15e399",
+        "android_client_info": {
+          "package_name": "com.example.fruitsense5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuqPOT5XkAhrwf0hpvsmzM9Ox8AK9gOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

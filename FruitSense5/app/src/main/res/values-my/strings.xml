@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">FruitSense</string>
+
+    /// Nav Menu
+    <string name="home_menu">Home</string>
+    <string name="scan_menu">Scan</string>
+    <string name="profile_menu">Profile</string>
+
+
+    /// Sign Up Page
+    <string name="sign_up">Daftar</string>
+    <string name="haveAnAccount">Sudah memiliki Akaun?</string>
+    <string name="haveAnAccount1">Log Masuk</string>
+
+
+    /// Log In Page
+    <string name="log_in">Log Masuk</string>
+    <string name="signupInLoginPage">Tiada akaun?</string>
+    <string name="signupInLoginPage1">Daftarkan</string>
+    <string name="forgot_password">Lupa Kata Laluan?</string>
+
+
+    /// Forgot Pass
+    <string name="enter_email">Sila masukkan email yang didaftarkan.</string>
+    <string name="request_reset_link">Minta pautan set semula</string>
+
+
+    /// Home Page, Articles Page, Single Article Page, Fruits Page
+    <string name="cta2">Temui Buah-buahan Sempurna Sekarang! \nMula Mengimbas dan Rasai \nKesegarannya!</string>
+    <string name="articles">Artikel</string>
+    <string name="article1">Kelemahan Buah Terlalu Masak</string>
+    <string name="article2">Peringkat Pematangan Buah: Dari Hijau\nkepada Manis</string>
+    <string name="article3">Petua Menyimpan\nBuah-buahan</string>
+    <string name="article4">Faktor Yang Mempengaruhi \nKualiti Buah</string>
+    <string name="article5">Khasiat Pemakanan \nBuah-buahan Segar</string>
+    <string name="article6">Trend Global dalam \nPenggunaan Buah-buahan</string>
+    <string name="button1">Lihat Lagi</string>
+    <string name="fruits">Terokai Dunia Buah-buahan</string>
+    <string name="fruit1">Epal</string>
+    <string name="fruit2">Pisang</string>
+    <string name="button2">Lihat Lagi</string>
+
+    <string name="article">Artikel</string>
+
+    //Single Article Page 1
+    <string name="singlearticle1">Kelemahan Buah \nTerlalu Masak</string>
+    <string name="by">Oleh FruitSense</string>
+    <string name="timearticle1">20 minit lalu</string>
+    <string name="descarticle1">Buah-buahan tidak diragukan lagi merupakan hadiah manis semulajadi kepada kita, padat dengan vitamin, mineral dan antioksidan penting yang diperlukan untuk mengekalkan diet yang sihat dan menyokong kesejahteraan keseluruhan.</string>
+    <string name="descarticle1_2">Walau bagaimanapun, terdapat kaveat untuk keseronokan buah ini – risiko terlalu masak. Walaupun buah-buahan masak adalah kuasa pemakanan, buah-buahan yang terlalu masak boleh menimbulkan beberapa kelemahan yang penting untuk diketahui. Sebagai contoh, buah-buahan yang terlalu masak mungkin mengalami kemerosotan dalam nilai pemakanan akibat kemerosotan nutrien penting seperti vitamin dan antioksidan. Selain itu, buah-buahan yang terlalu masak lebih mudah terdedah kepada pencemaran mikrob, meningkatkan risiko penyakit bawaan makanan seperti keracunan makanan dan ketidakselesaan gastrousus.</string>
+    <string name="descarticle1_3">Berikut adalah pandangan yang lebih dekat pada akibat dan beberapa perkataan berhati-hati. Buah-buahan yang terlalu masak mungkin menunjukkan perubahan dalam tekstur, warna, dan aroma, menandakan kualiti berkurangan dan potensi kerosakannya. Selain itu, buah-buahan yang terlalu masak boleh menghasilkan gas etilena, yang mempercepatkan proses masak buah-buahan berhampiran, yang membawa kepada kerosakan pramatang bagi keseluruhan kumpulan. Oleh itu, terdapat keperluan untuk sentiasa memeriksa buah-buahan anda untuk tanda-tanda terlalu masak, termasuk perubahan dalam warna, tekstur dan aroma, untuk memastikan kesegaran dan keselamatannya untuk dimakan.</string>
+
+    //Single Article Page 2
+    <string name="singlearticle2">Peringkat Pematangan\nBuah: Dari Hijau\nkepada Manis</string>
+    <string name="timearticle2">2 jam lalu</string>
+    <string name="descarticle2">Pematangan buah ialah proses yang menarik yang mengubah hasil yang tidak boleh dimakan, keras dan masam menjadi makanan yang manis, berair dan sedap. Memahami peringkat pematangan buah bukan sahaja penting untuk pengguna tetapi juga untuk petani, pembekal, dan peruncit. Artikel ini membincangkan perjalanan buah-buahan dari keadaan hijau, belum masak kepada peringkat manis, masak dan kadang-kadang terlalu masak.</string>
+    <string name="descarticle2_2"><b>1. Peringkat Belum Masak</b></string>
+    <string name="descarticle2_3">Buah-buahan yang belum masak secara amnya tidak sesuai untuk dimakan segera tetapi boleh digunakan dalam masakan masakan tertentu atau diproses untuk penjerukan. Pada peringkat belum masak, buah-buahan biasanya berwarna hijau dan keras. Kandungan klorofil adalah tinggi, memberikan mereka warna hijau. Mereka selalunya masam atau pahit kerana kehadiran asid dan tanin tertentu. Semasa peringkat ini:</string>
+    <string name="descarticle2_4">• Tekstur: Keras dan padat</string>
+    <string name="descarticle2_5">• Warna: Kebanyakannya hijau</string>
+    <string name="descarticle2_6">• Rasa: Masam atau pahit</string>
+    <string name="descarticle2_7">• Nilai Pemakanan: Tinggi dalam kanji, yang masih belum ditukar kepada gula</string>
+    <string name="descarticle2_8"><b>2. Peringkat Kematangan</b></string>
+    <string name="descarticle2_9">Apabila buah-buahan beralih dari belum masak kepada masak, mereka memasuki peringkat matang. Pada peringkat ini, buah-buahan mula mengembangkan rasa penuh dan potensi pemakanan mereka. Ini dicirikan oleh:</string>
+    <string name="descarticle2_10">• Tekstur: Mula lembut</string>
+    <string name="descarticle2_11">• Warna: Hijau mungkin mula pudar, memberi laluan kepada warna ciri buah</string>
+    <string name="descarticle2_12">• Rasa: Masam berkurangan apabila asid mula bertukar kepada gula</string>
+    <string name="descarticle2_13">• Aroma: Bau yang samar dan menyenangkan mula timbul</string>
+    <string name="descarticle2_14"><b>3. Peringkat Pematangan</b></string>
+    <string name="descarticle2_15">Peringkat masak adalah puncak perkembangan buah, di mana ia mencapai kemanisan maksimum dan tekstur optimum. Buah-buahan masak sedia untuk dimakan dan berada pada tahap terbaik dari segi rasa dan nilai pemakanan. Ciri-ciri utama termasuk:</string>
+    <string name="descarticle2_16">• Tekstur: Lembut, berair dan lembut</string>
+    <string name="descarticle2_17">• Warna: Bermaya dan ciri buah</string>
+    <string name="descarticle2_18">• Rasa: Manis, kerana kanji telah bertukar kepada gula</string>
+    <string name="descarticle2_19">• Aroma: Kuat dan menyenangkan</string>
+    <string name="descarticle2_20"><b>4. Peringkat Terlalu Masak</b></string>
+    <string name="descarticle2_21">Jika dibiarkan melebihi peringkat masak, buah-buahan memasuki peringkat terlalu masak. Buah-buahan yang terlalu masak mungkin tidak begitu menarik secara visual tetapi masih boleh digunakan dalam pelbagai aplikasi masakan seperti penaik, smoothie dan pengawet. Tahap ini ditandai dengan:</string>
+    <string name="descarticle2_22">• Tekstur: Sangat lembut, kadangkala lembek</string>
+    <string name="descarticle2_23">• Warna: Mungkin menjadi lebih gelap atau menampakkan bintik-bintik</string>
+    <string name="descarticle2_24">• Rasa: Sangat manis, kadang-kadang terlalu manis</string>
+    <string name="descarticle2_25">• Aroma: Bau yang kuat dan kadangkala menapai</string>
+    <string name="descarticle2_26"><b>5. Peringkat Pereputan</b></string>
+    <string name="descarticle2_27">Akhirnya, jika buah dibiarkan lebih lama, ia akan mula reput. Buah-buahan yang reput tidak sesuai untuk dimakan dan harus dibuang atau dikompos. Ciri-ciri peringkat ini termasuk:</string>
+    <string name="descarticle2_28">• Tekstur: Lembek dan pecah</string>
+    <string name="descarticle2_29">• Warna: Tompok coklat atau hitam dan perubahan warna keseluruhan</string>
+    <string name="descarticle2_30">• Rasa: Masam atau tidak berperisa kerana penapaian dan aktiviti mikrob</string>
+    <string name="descarticle2_31">• Aroma: Bau yang kuat dan tidak menyenangkan menunjukkan kerosakan</string>
+
+
+    //Single Article Page 3
+    <string name="singlearticle3">Petua Menyimpan\nBuah-buahan</string>
+    <string name="timearticle3">1 hari lalu</string>
+    <string name="descarticle3">Menyimpan buah-buahan segar kadang-kadang boleh terasa seperti perlumbaan melawan masa. Dengan teknik penyimpanan yang betul, anda boleh memanjangkan jangka hayat buah-buahan kegemaran anda dan mengurangkan pembaziran. Berikut adalah beberapa petua penyimpanan buah-buahan yang penting untuk membantu anda memanfaatkan hasil pertanian anda</string>
+    <string name="descarticle3_2">1. Epal</string>
+    <string name="descarticle3_3">Simpan dalam Peti Sejuk untuk Tempoh yang Lebih Lama: Simpan epal dalam laci penyimpanan peti sejuk anda. Epal boleh bertahan sehingga enam minggu apabila disimpan dalam keadaan sejuk.</string>
+    <string name="descarticle3_4">Pisahkan dari Buah-buahan Lain: Epal mengeluarkan gas etilena, yang boleh mempercepatkan proses kematangan buah-buahan lain. Jauhkan mereka dari hasil pertanian yang sensitif terhadap etilena.</string>
+    <string name="descarticle3_5">2. Pisang</string>
+    <string name="descarticle3_6">Suhu Bilik adalah Terbaik: Simpan pisang pada suhu bilik. Elakkan daripada menyimpannya dalam peti sejuk kerana ia boleh menyebabkan kulit pisang menjadi hitam, walaupun buah di dalamnya tidak terjejas.</string>
+    <string name="descarticle3_7">Gantungkan Mereka: Gunakan penggantung pisang untuk mengelakkan pisang daripada lebam dan untuk mempromosikan kematangan yang sekata.</string>
+    <string name="descarticle3_8">3. Tomato</string>
+    <string name="descarticle3_9">Suhu Bilik untuk Rasa Terbaik: Simpan tomato pada suhu bilik, jauh dari cahaya matahari langsung. Penyimpanan dalam peti sejuk boleh mengubah tekstur dan rasa mereka.</string>
+    <string name="descarticle3_10">Bahagian Batang ke Bawah: Letakkan tomato dengan bahagian batang menghadap ke bawah untuk mengelakkan udara masuk dan kelembapan keluar, yang membantu mereka kekal segar lebih lama.</string>
+    <string name="descarticle3_11">Gunakan Tomato yang Sudah Matang dengan Cepat: Setelah sepenuhnya matang, gunakan tomato dalam beberapa hari untuk menikmati rasa terbaik mereka.</string>
+
+    //Single Article Page 4
+    <string name="singlearticle4">Faktor Yang\nMempengaruhi \nKualiti Buah</string>
+    <string name="timearticle4">2 hari lalu</string>
+    <string name="descarticle4_1">Kualiti buah adalah konsep yang pelbagai yang merangkumi pelbagai atribut seperti rasa, tekstur, penampilan, dan nilai pemakanan. Kualiti buah dipengaruhi oleh gabungan faktor genetik, persekitaran, dan selepas penuaian. Memahami faktor-faktor ini adalah penting untuk petani, pengedar, dan pengguna untuk memastikan buah mencapai potensi penuhnya. Di sini, kita meneroka faktor utama yang mempengaruhi kualiti buah.</string>
+    <string name="descarticle4_2">1. Faktor Genetik</string>
+    <string name="descarticle4_3">Pemilihan Varieti: Komposisi genetik buah menentukan ciri-ciri semula jadinya. Varieti yang berbeza dari buah yang sama boleh berbeza dengan ketara dalam rasa, warna, saiz, dan ketahanan terhadap penyakit.</string>
+    <string name="descarticle4_4">Pembiakan dan Pengubahsuaian Genetik: Kemajuan dalam teknik pembiakan dan pengubahsuaian genetik boleh meningkatkan ciri-ciri yang diingini seperti kemanisan, jangka hayat, dan ketahanan terhadap perosak. Walau bagaimanapun, pengubahsuaian ini juga boleh mempengaruhi atribut kualiti yang lain.</string>
+    <string name="descarticle4_5">2. Faktor Persekitaran</string>
+    <string name="descarticle4_6">Iklim: Suhu, kelembapan, dan hujan memainkan peranan penting dalam perkembangan buah. Sebagai contoh, buah sitrus berkembang dalam iklim yang panas dan cerah, manakala beri memerlukan suhu yang lebih sejuk.</string>
+    <string name="descarticle4_7">Keadaan Tanah: Jenis tanah, pH, dan ketersediaan nutrien mempengaruhi pertumbuhan dan kualiti buah. Tanah yang drainase baik dan kaya nutrien menyokong perkembangan buah yang sihat.</string>
+    <string name="descarticle4_8">Cahaya Matahari: Cahaya matahari yang mencukupi adalah penting untuk fotosintesis, yang secara langsung mempengaruhi kandungan gula dan rasa buah.</string>
+    <string name="descarticle4_9">3. Amalan Pertanian</string>
+    <string name="descarticle4_10">Pengairan: Jadual penyiraman yang betul memastikan buah menerima jumlah kelembapan yang tepat. Pengairan berlebihan dan kekurangan boleh memberi kesan negatif kepada kualiti buah.</string>
+    <string name="descarticle4_11">Pembajaan: Penggunaan baja yang sesuai meningkatkan kesuburan tanah dan menyediakan nutrien penting untuk pertumbuhan buah. Penggunaan atau penyalahgunaan baja boleh menyebabkan ketidakseimbangan nutrien dan mempengaruhi kualiti buah.</string>
+    <string name="descarticle4_12">Pengawalan Perosak dan Penyakit: Pengurusan perosak dan penyakit yang berkesan adalah penting untuk mencegah kerosakan kepada buah. Kawalan kimia dan biologi, bersama dengan amalan pertanian yang baik, membantu mengekalkan kualiti buah.</string>
+
+    //Single Article Page 5
+    <string name="singlearticle5">Khasiat Pemakanan Buah-buahan Segar</string>
+    <string name="timearticle5">3 hari lalu</string>
+    <string name="descarticle5_1">Buah-buahan segar bukan sahaja sedap tetapi juga penuh dengan nutrien penting yang menawarkan pelbagai manfaat kesihatan. Salah satu kelebihan terbesar memakan buah-buahan segar adalah kandungan vitaminnya yang kaya. Buah-buahan seperti oren, strawberi, dan kiwi adalah sumber Vitamin C yang sangat baik, yang memainkan peranan penting dalam meningkatkan sistem imun, mempromosikan kulit yang sihat, dan membantu penyembuhan luka. Selain itu, buah-buahan seperti pisang dan alpukat menyediakan jumlah Vitamin B6 yang besar, yang penting untuk kesihatan otak dan metabolisme tenaga.</string>
+    <string name="descarticle5_2">Selain vitamin, buah-buahan segar kaya dengan serat makanan. Epal, pir, dan raspberi terkenal dengan kandungan serat yang tinggi, yang penting untuk kesihatan pencernaan. Serat membantu mengatur pergerakan usus, mencegah sembelit, dan mengekalkan berat badan yang sihat dengan mempromosikan rasa kenyang. Penambahan serat dalam diet juga dikaitkan dengan risiko yang lebih rendah terhadap penyakit kronik seperti penyakit jantung dan diabetes.</string>
+    <string name="descarticle5_3">Buah-buahan segar juga merupakan sumber antioksidan yang berharga, yang membantu melawan tekanan oksidatif dan mengurangkan keradangan dalam badan. Buah beri, seperti blueberry dan blackberry, kaya dengan antioksidan seperti flavonoid dan polifenol. Kompaun ini telah terbukti melindungi sel dari kerosakan, mengurangkan risiko penyakit kronik, dan menyokong kesejahteraan keseluruhan.</string>
+
+    //Single Article Page 6
+    <string name="singlearticle6">Trend Global dalam Penggunaan Buah-buahan</string>
+    <string name="timearticle6">4 hari lalu</string>
+    <string name="descarticle6_1">Corak penggunaan buah-buahan di seluruh dunia sedang berubah akibat gabungan pengaruh budaya, ekonomi, dan kesihatan. Dengan meningkatnya kesedaran global mengenai manfaat diet yang sihat, trend penggunaan buah mencerminkan perubahan dalam keutamaan dan pilihan pengguna. Artikel ini meneroka trend global terkini dalam penggunaan buah dan faktor-faktor yang mendorong perubahan ini.</string>
+    <string name="descarticle6_2">1. Fokus Meningkat pada Kesihatan dan Kesejahteraan</string>
+    <string name="descarticle6_3">Kesedaran Kesihatan yang Meningkat: Dengan semakin ramai orang yang menyedari manfaat kesihatan yang berkaitan dengan diet yang seimbang, terdapat penekanan yang semakin besar untuk memasukkan buah-buahan dalam hidangan harian. Buah-buahan dikenali kerana nilai nutrisinya, termasuk vitamin, mineral, serat, dan antioksidan, yang menyumbang kepada kesejahteraan keseluruhan dan pencegahan penyakit.</string>
+    <string name="descarticle6_4">Makanan Fungsional: Pengguna semakin berminat dengan buah-buahan yang menawarkan manfaat kesihatan khusus, seperti sifat anti-radang, sokongan imun, dan kesihatan usus. Trend ini memacu populariti makanan super seperti beri acai, delima, dan blueberry.</string>
+    <string name="descarticle6_5">2. Pertumbuhan dalam Pilihan Organik dan Mampan</string>
+    <string name="descarticle6_6">Produk Organik: Permintaan untuk buah-buahan organik semakin meningkat kerana pengguna semakin prihatin tentang racun perosak dan impak alam sekitar. Amalan pertanian organik, yang mengelakkan bahan kimia sintetik dan mempromosikan kesihatan tanah, menarik perhatian pengguna yang mementingkan kesihatan dan mereka yang berminat dalam pertanian mampan.</string>
+    <string name="descarticle6_7">Pembungkusan Mampan: Terdapat juga trend yang semakin meningkat terhadap penyelesaian pembungkusan mesra alam untuk buah-buahan. Pengguna mencari produk dengan impak alam sekitar yang minimum, menyebabkan peningkatan penggunaan bahan pembungkusan yang boleh terurai dan boleh dikitar semula.</string>
+    <string name="descarticle6_8">3. Diversifikasi Penggunaan Buah-buahan</string>
+    <string name="descarticle6_9">Buah-buahan Eksotik: Globalisasi dan peningkatan pengangkutan telah memudahkan pengguna mengakses pelbagai jenis buah-buahan. Buah-buahan eksotik seperti buah naga, longan, dan rambutan semakin popular apabila orang mencari rasa baru dan unik.</string>
+    <string name="descarticle6_10">Produk Buah-buahan Terproses: Kemudahan produk buah-buahan terproses, seperti buah kering, jus buah, dan smoothie, memacu penggunaannya. Produk-produk ini menawarkan cara yang cepat dan mudah untuk memasukkan buah-buahan dalam gaya hidup yang sibuk sambil mengekalkan manfaat nutrisi.</string>
+
+
+    //Fruits Page and Single Fruit Page
+    <string name="fruits_page">Buah-buahan</string>
+    <string name="fruit_page">Buah</string>
+    <string name="descfruit1_1">Ciri-ciri</string>
+    <string name="genus">Jenus</string>
+    <string name="species">Spesies</string>
+    <string name="family">Keluarga</string>
+    <string name="descfruit1_2">Penerangan</string>
+    <string name="descfruit1_3">Epal kaya dengan serat, yang menyokong kesihatan pencernaan. Ia diketahui membantu mengawal paras gula darah dan mengurangkan risiko penyakit jantung. Sesetengah orang mungkin alah kepada kulit epal, jadi berhati-hati disarankan bagi mereka yang mempunyai alahan yang diketahui.</string>
+    <string name="descfruit2_3">Tumbuhan pisang, yang dikelaskan di bawah genus Musa, adalah tumbuhan herba besar yang dikenali dengan daunnya yang memanjang dan ketinggian yang besar. Buahnya, biasanya kuning apabila matang, tumbuh dalam kelompok dan mempunyai daging yang lembut dan manis. Pisang ditanam di kawasan tropika di seluruh dunia dan merupakan makanan utama dalam banyak diet kerana nilai nutrisi yang tinggi, termasuk vitamin, mineral, dan serat diet.</string>
+    <string name="descfruit3_3">Tumbuhan tomato, yang dikelaskan di bawah genus Solanum, adalah tumbuhan herba yang dikenali dengan buahnya yang boleh dimakan, yang biasanya merah apabila matang tetapi juga boleh menjadi kuning, hijau, atau ungu. Buahnya secara teknikal adalah beri dan digunakan secara meluas dalam aplikasi kuliner kerana rasa masamnya dan versatiliti. Tomato kaya dengan vitamin, terutama vitamin C, dan antioksidan seperti likopena. Ia ditanam dalam pelbagai iklim, dengan banyak kultivar yang dibangunkan untuk kegunaan yang berbeza dari makan segar hingga memasak dan pemprosesan.</string>
+
+
+
+    /// Scan Page
+    <string name="scan">Pindai</string>
+    <string name="cameratxt">Kamera</string>
+    <string name="gallerytxt">Pilih dari Galeri</string>
+    <string name="snaptipstxt">Petua Tangkap gambar</string>
+    <string name="tips1">Pencahayaan yang Betul</string>
+    <string name="tips2">Tangan Stabil</string>
+    <string name="tips3">Pusatkan Pemindaian</string>
+    <string name="gallery">Galeri</string>
+
+
+    /// Profile Page
+    <string name="profile">Profil</string>
+    <string name="account_setting">Tetapan Akaun</string>
+    <string name="language">Bahasa</string>
+    <string name="sign_out">Log Keluar</string>
+    <string name="editprofile_title">Edit Profil</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="save_btn">Simpan</string>
+
+
+    /// Language Page
+    <string name="language_top">Bahasa</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="english_lang">Bahasa Inggeris</string>
+    <string name="malay_lang">Bahasa Melayu</string>
+    <string name="language_savebtn">Simpan</string>
+
+
+
+    <string name="apple">Epal</string>
+    <string name="banana">Pisang</string>
+    <string name="tomato">Tomat</string>
+    <string name="downside_of_overripe_fruits">Kelemahan Buah Terlalu Matang</string>
+    <string name="fruit_ripening_stages">Tahap Matangnya Buah: Dari Hijau ke Manis</string>
+    <string name="fruit_storage_hacks">Petua Penyimpanan Buah</string>
+    <string name="factors_affecting_fruit_quality">Faktor yang Mempengaruhi Kualiti Buah</string>
+    <string name="nutritional_benefits_of_fresh_fruits">Manfaat Nutrisi Buah Segar</string>
+    <string name="global_trends_in_fruit_consumption">Trend Global dalam Penggunaan Buah</string>
+
+
+
+    <string name="profile_text">Profil</string>
+</resources>
